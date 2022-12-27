@@ -1,1 +1,7 @@
-# Binary-Tree-and-Tree-Travarsal
+# Binary-Tree-and-Tree-Travarsal![WhatsApp Image 2022-12-27 at 21 59 58](https://user-images.githubusercontent.com/107579600/209691839-dd63ba3f-19f3-4956-9609-98753393e304.jpg)
+![WhatsApp Image 2022-12-27 at 21 59 57](https://user-images.githubusercontent.com/107579600/209691856-7c47769b-2841-4253-b25c-bff52a8b87f7.jpg)
+![WhatsApp Image 2022-12-27 at 21 59 5](https://user-images.githubusercontent.com/107579600/209691865-c4a5ea6c-4c0d-4365-83cb-31c4dfe78131.jpg)
+![jbnb](https://user-images.githubusercontent.com/107579600/209691877-6b37d237-c327-405f-918a-f5ce97af0dc0.jpg)
+![hjjjnj](https://user-images.githubusercontent.com/107579600/209691889-80190064-5278-4e96-92ba-e396f9b4e502.jpg)
+![WhatsApp Image 2022-12-27 at 21 59 59](https://user-images.githubusercontent.com/107579600/209691901-8c2ed47b-4a4d-4070-9681-da9068c5c018.jpg)
+![vccg](https://user-images.githubusercontent.com/107579600/209691922-ef0d7b67-0577-4623-9c79-19664b4526c2.jpg)
